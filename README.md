@@ -125,7 +125,7 @@ We grade every claim. From the latest end-to-end run:
 
 ```bibtex
 @software{vasquez2026aix,
-  author = {Vasquez, Brandon M.},
+  author = {Vasquez, Brandon Manuel},
   title = {AIX: Adversarial Identifiability Engine},
   year = {2026},
   url = {https://github.com/vasquezbrandon205/aix}
