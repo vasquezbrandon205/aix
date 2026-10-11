@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "AIX: Adversarial Identifiability Engine"
+authors:
+  - family-names: Vasquez
+    given-names: Brandon M.
+    email: bmv1919@proton.me
+version: 1.0.0
+date-released: 2026-10-11
+url: https://github.com/vasquezbrandon205/aix
+license: Apache-2.0
+keywords:
+  - symbolic-regression
+  - equation-discovery
+  - AI-for-science
+  - formal-verification
+  - identifiability
